@@ -1,0 +1,3123 @@
+{
+    "titles": [
+        "A téli esték",
+        "Az országgyűléshez"
+    ],
+    "poems": {
+        "0": {
+            "title": "A téli esték",
+            "author": "Petőfi Sándor",
+            "date": "1848-01",
+            "source": "A TÉLI ESTÉK.txt"
+        },
+        "1": {
+            "title": "Az országgyűléshez",
+            "author": "Petőfi Sándor",
+            "date": "1848-02",
+            "source": "AZ ORSZÁGGYÜLÉSHEZ.txt"
+        }
+    },
+    "words": {
+        "hova": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "lett": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "tarka": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "szivárvány": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "égről": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "virág": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mezőkről": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hol": {
+            "count": 4,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "van": {
+            "count": 7,
+            "poems": [
+                0
+            ]
+        },
+        "patakzaj": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "madárdal": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "s": {
+            "count": 24,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "minden": {
+            "count": 3,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "éke": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kincse": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tavasznak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nyárnak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "odavan": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mind": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "csak": {
+            "count": 6,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "emlékezet": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "által": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "idéztetnek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "föl": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "mint": {
+            "count": 6,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "halvány": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "síri": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "árnyak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "egyebet": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nem": {
+            "count": 15,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "látni": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hónál": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fellegnél": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "koldussá": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "föld": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "kirabolta": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tél": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "olyan": {
+            "count": 4,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "egy": {
+            "count": 9,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "vén": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "koldús": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "valóban": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "vállain": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fejér": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "foltos": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "takaró": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "jéggel": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "foltozva": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "itt-ott": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "rongyos": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "is": {
+            "count": 8,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "még": {
+            "count": 5,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "sok": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "helyen": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "kilátszik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mezítelen": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "teste": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ugy": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "áll": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "hidegben": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "didereg": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "inség": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "vastagon": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "bágyadt": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "alakjára": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "festve": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mit": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "csinálna": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kinn": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "ember": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "ilyen": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "tájban": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mostan": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ott": {
+            "count": 7,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "benn": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "szép": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "élet": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "szobában": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "áldja": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "istenét": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kit": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "istene": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megáldott": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "adván": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "néki": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "meleg": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "hajlékot": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "családot": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "milyen": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "boldogság": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "most": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "jó": {
+            "count": 4,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "szoba": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "barátságos": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "család": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kis": {
+            "count": 4,
+            "poems": [
+                0
+            ]
+        },
+        "kunyhó": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tündérpalota": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "honnan": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "rakni": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kandallóra": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fát": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mindenik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szó": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mely": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "máskor": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "légbe": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "röpűl": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tán": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "beszáll": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szív": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "közepébe": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "legkivált": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "esték": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ilyenkor": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mi": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "szépek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "el": {
+            "count": 4,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "sem": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "hinnétek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ismernétek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "családfő": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fenn": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ül": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nagy": {
+            "count": 3,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "asztalnál": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "bizalmas": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "beszédben": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szomséddal": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "komával": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szájokban": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pipa": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "előttök": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "palack": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "megtelve": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pince": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "legrégibb": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "borával": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fenekét": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lelik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "akárhogy": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "iparkodnak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ujra": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megtelik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "már": {
+            "count": 4,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "fogy": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kinálgatja": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "őket": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "háziasszony": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ne": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "félj": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tisztjéből": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "valamit": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mulasszon": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hej": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mert": {
+            "count": 3,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "ő": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "nagyon": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "jól": {
+            "count": 3,
+            "poems": [
+                0
+            ]
+        },
+        "tudja": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "mikép": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kell": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kötelességét": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megtanulta": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "bánik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "könnyen": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ház": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "becsületével": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "foghatják": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "rá": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fösvény": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lusta": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "sürög": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "forog": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mondja": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "minduntalan": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tessék": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "szomszéd": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "uram": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "komám": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "azok": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megköszönik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "egyet": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hörpentenek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kiég": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pipájok": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "újra": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "rátöltenek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pipafüst": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "csavarog": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "légben": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "akkép": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "csavarognak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szanaszét": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "elméik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ami": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "régen": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "elmult": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "összeszedegetik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "sorra": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "elregélik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "akitől": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nincs": {
+            "count": 3,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "messze": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "határa": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "előre": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szeret": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nézni": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hanem": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hátra": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "asztal": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mellett": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ifjú": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lyányka": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fiatal": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pár": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mult": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "időt": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "hányja": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "törődnének": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "multtal": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "vagyon": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hátok": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megett": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lelkök": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "jövendő": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "látkörébe": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tévedt": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "merengve": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nézik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "rózsafelhős": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "eget": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lopva": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mosolyognak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hangot": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "adnak": {
+            "count": 2,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "jóisten": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mégis": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "mulatnak": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "amott": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hátul": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pedig": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "kemence": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "körűl": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "apró-cseprőség": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "zúgva-zsibongva": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "űl": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "egész": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "halom": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kisebb-nagyobb": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "gyermek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kártyából": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tornyokat": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "csinál": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "épít": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "rombol": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "űzi": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "pillangóit": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "boldog": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "jelennek": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "tennapot": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "felejtett": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "holnapra": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "gondol": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lám": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ki": {
+            "count": 4,
+            "poems": [
+                0,
+                1
+            ]
+        },
+        "hinné": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mennyi": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fér": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "itt": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "jövő": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "jelen": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "holnap": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kenyérsütés": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "napja": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lesz": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szitál": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szolgáló": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "dalolgat": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "behallik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "nótája": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "csikorog": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kútgém": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "udvaron": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lovait": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "itatj": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "kocsis": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "éjszakára": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "húzzák": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "cigányok": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "valami": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "víg": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "toron": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "távolról": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hangzik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "bőgő": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "mormogása": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "e": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "különféle": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "zaj": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "szobába": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "összefoly": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "csendes": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lágy": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "harmóniába": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "esik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hó": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fekete": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "útca": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "vastag": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "sötétség": {
+            "count": 2,
+            "poems": [
+                0
+            ]
+        },
+        "egészen": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "behúzta": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "járó-kelő": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "igen": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "akad": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "egy-egy": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "látogató": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megy": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hazafelé": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lámpája": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "megvillan": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ablakok": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "alatt": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "fényét": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "hirtelen": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "elnyelé": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "eltűnik": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "lámpa": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "bennlevők": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "buzgón": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "találgatják": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "vajon": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "ment": {
+            "count": 1,
+            "poems": [
+                0
+            ]
+        },
+        "sokat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "beszéltek": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "szépet": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jót": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ebbül": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "hon": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "él": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "meg": {
+            "count": 4,
+            "poems": [
+                1
+            ]
+        },
+        "rendében": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "eljárásotok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ti": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "dolog": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "végébe": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kaptatok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "így": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tevétek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "régóta": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mindig": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "látják": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kik": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "multat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "végigtekintik": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "képzel": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "templomépitőt": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tornyot": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "csinálja": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "előbb": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "levegőbe": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tolja": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "fönn": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "maradjon": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "míg": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "majd": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "valahogy": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "alája": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "rakja": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szépen": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "falat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "legeslegvégül": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jőne": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "alap": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "vagytok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mesteremberek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ezért": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "ad": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "nektek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kenyeret": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "fizet": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szivének": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "vérivel": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jobbat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tesz": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "aki": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "semmit": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mivel": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "erőt": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "eltékozoltok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "sükert": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mutattok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "néha-néha": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "hogyha": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "engemet": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szomjuság": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "bánt": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "víz": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "helyett": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ételt": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "talán": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "épen": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mitől": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szomjúságom": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jobban": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "éget": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "siker": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jótétemény": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "elmémet": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "bölcsőben": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "hagytam": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "én": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "hiába": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "beszéd": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "fogjátok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "elejét": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kezdetnél": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kezditek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "sajtószabadságot": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "szerezzetek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ezt": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ide": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "oly": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "mindenható": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "ige": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "nemzetben": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "isten": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "legyen\"-je": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "amellyel": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "mindenséget": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "teremte": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "bár": {
+            "count": 3,
+            "poems": [
+                1
+            ]
+        },
+        "máskép": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mindenek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "eláradó": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "bőségben": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "termenek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "utósó": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szolga": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "pór": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "zsebébül": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "aranyat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "marokkal": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szór": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "azon": {
+            "count": 3,
+            "poems": [
+                1
+            ]
+        },
+        "nemzetnek": {
+            "count": 3,
+            "poems": [
+                1
+            ]
+        },
+        "sincs": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "semmije": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "koldus": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "neve": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "megvan": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "rongyban": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jár": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "nép": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "nyomorg": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tengődik": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "mindenfélekép": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "nemzet": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "gazdag": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "végtelenűl": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "jövendőt": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "bírja": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "örökűl": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "haladni": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "vágyunk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "haladhatunk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "istenem": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "golyhók": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "vagyunk": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "lábunk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szabad": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "szemünk": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "bekötve": {
+            "count": 2,
+            "poems": [
+                1
+            ]
+        },
+        "hová": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "megyünk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "meglássátok": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "gödörbe": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "fogva": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szellemünk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "égbe": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szállnánk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "röpülhetünk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szellem": {
+            "count": 3,
+            "poems": [
+                1
+            ]
+        },
+        "rab": {
+            "count": 3,
+            "poems": [
+                1
+            ]
+        },
+        "ronda": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "fúl": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "dögvészes": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "önnön": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "átkitúl": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "hitvány": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kutyát": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "végére": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "láncba": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szoriták": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "láncát": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "harapva": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tördeli": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "fogát": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "védni": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tudná": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "hazát": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "tartjuk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "nyakunkat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "csúfoljuk": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "magunkat": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szolgák": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "rabszolgánál": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "szolgábbak": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "megvetésére": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "kerek": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        },
+        "világnak": {
+            "count": 1,
+            "poems": [
+                1
+            ]
+        }
+    }
+}
