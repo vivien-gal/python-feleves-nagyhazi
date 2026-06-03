@@ -1,5 +1,0 @@
-Gál Vivien Viktória: Pytőfi szótár
-
-A program célja Petőfi Sándor verseinek feldolgozása és azokból szógyakorisági szótár készítése. A felhasználó kiválaszthat tetszőleges versfájlokat, amelyeket a program beolvas, majd a metaadatok, például a cím, a szerző és a dátum mellett feldolgozza a teljes szöveget. A szavakból eltávolítja az írásjeleket, kisbetűsíti őket, kiszűri a stopwordöket, a fennmaradó kifejezéseket pedig előfordulási gyakoriság alapján tárolja.
-
-A program többféle rendezési algoritmust is tartalmaz, amelyek futási ideje összehasonlítható, így jól érzékelhető a QuickSort, a HeapSort, a ShellSort és a BubbleSort közötti különbség. Emellett lehetőség van a beolvasott szótár exportálására, valamint a felhasználó által megadott szavak keresésére is. A cél az, hogy a szövegfeldolgozás és a rendezési algoritmusok működése egyszerűen és áttekinthetően váljon megérthetővé.
